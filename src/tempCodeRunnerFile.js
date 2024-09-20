@@ -1,0 +1,1 @@
+let Table=require("./models/model")

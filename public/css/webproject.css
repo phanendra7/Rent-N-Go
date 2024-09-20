@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h2 {
+    margin-left: 110px;
+    margin-top: 20px;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    left: 799px;
+    top: 106px;
+    background: #FD9800;
+    border-radius: 30px;
+}
+
+div.booking {
+    position: absolute;
+    width: 420px;
+    height: 700px;
+    right: 57px;
+    top: 93px;
+    background: #212529;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+form#booking {
+    margin-left: 60px;
+    margin-top: 40px;
+    font-size: 16px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input#name {
+    margin-inline-start: 0px;
+    width: 200px;
+    height: 25px;
+    left: 10px;
+    top: 10px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+
+input#BookNow {
+    margin-left: 100px;
+    width: 130px;
+    height: 30px;
+    left: 848px;
+    top: 823px;
+    background: #FD9800;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    left: 80px;
+    top: 110px;
+
+}
+
+.button1 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 20px;
+    top: 20px;
+    font-size: 50px;
+    border-radius: 50px;
+}
+.div1 {
+    width: 1470px;
+    height: 868px;
+    background-color: black;
+}
+
+h4 {
+    position: relative;
+    width: 443px;
+    height: 50px;
+    left: 400px;
+    top: 650px;
+    font-style: italic;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+label {
+    width: 100px;
+    display: inline-block;
+}
+

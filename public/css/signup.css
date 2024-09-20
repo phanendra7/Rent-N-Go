@@ -1,0 +1,44 @@
+body{
+    background-image: url("Images/benzhe.jpg");
+   background-color: #000000;
+}
+
+
+
+h2{
+top: 10px;
+font-family: Sans-serif; 
+font-size: 24px;     
+font-style: normal; 
+font-weight: bold; 
+color:white;
+text-align: center; 
+text-decoration: underline
+}
+table{
+font-family: verdana; 
+color:white; 
+font-size: 12px; 
+font-style: normal;
+font-weight: bold;
+background:rgba(0, 0, 0, 0.662);  
+border-collapse: collapse; 
+border: 4px solid #000000;
+border-style: none;
+
+}
+table.inner{
+border: 10px
+}
+input[type=text], input[type=email], input[type=number]{
+width: 50%;
+padding: 6px 12px;
+margin: 5px 100px;
+box-sizing: border-box;
+}
+input[type=submit], input[type=reset]{
+width: 150%;
+padding: 50px 100px;
+margin: 50px 0;
+box-sizing: border-box;
+}
